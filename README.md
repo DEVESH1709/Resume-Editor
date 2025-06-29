@@ -298,5 +298,3 @@ If you encounter issues:
 2. Check the backend terminal for server logs
 3. Ensure both servers are running on the correct ports
 4. Verify all dependencies are installed correctly
-
----
